@@ -1,5 +1,5 @@
 # Minhas anotações sobre a aula de Linguagem-Markdown
-anotações#dicas
+mão-na-massa#Testando#APRENDIZADO#anotações#
 
 ***
 **EMOJIS**
