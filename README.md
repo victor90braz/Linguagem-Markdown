@@ -1,5 +1,5 @@
 # Linguagem-Markdown
-fiz algumas anotações, conteúdo em español pórem muito útil
+anotações#dicas#
 
 ***
 **EMOJIS**
