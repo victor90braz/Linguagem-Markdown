@@ -1,5 +1,5 @@
 # Linguagem-Markdown
-anotações#dicas#
+anotações#dicas
 
 ***
 **EMOJIS**
